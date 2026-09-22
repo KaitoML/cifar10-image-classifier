@@ -77,4 +77,6 @@ This launches a local Gradio interface (with a public shareable link, since `sha
 - Only `fc` (final classification layer), `layer4`, and `layer3` are unfrozen for fine-tuning, each with its own learning rate
 - The final fully connected layer is replaced with a 10-class output head
 
+## License 
 
+This project is licensed under the MIT License.

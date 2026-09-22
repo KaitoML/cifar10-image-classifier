@@ -1,5 +1,6 @@
 cifar_data/
 saved_params/
+.gradio/
 __pycache__/
 *.pyc
 .venv/
